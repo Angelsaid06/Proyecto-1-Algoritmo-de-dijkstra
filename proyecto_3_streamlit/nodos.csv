@@ -1,0 +1,11 @@
+Origen,Destino,Peso
+Casa,Escuela,7
+Casa,Plaza,9
+Casa,Mercado,14
+Escuela,Plaza,10
+Escuela,Biblioteca,15
+Plaza,Biblioteca,11
+Plaza,Mercado,2
+Biblioteca,Cine,6
+Mercado,Cine,9
+Zoologico,Linea 2,5
