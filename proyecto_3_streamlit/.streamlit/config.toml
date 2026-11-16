@@ -1,0 +1,11 @@
+# Colores de la pagina (paleta pastel)
+[theme]
+base = "light"
+primaryColor = "#9B7FD4"
+backgroundColor = "#FFF8FB"
+secondaryBackgroundColor = "#EAF4FF"
+textColor = "#4A4458"
+
+[theme.sidebar]
+backgroundColor = "#E8F7EF"
+secondaryBackgroundColor = "#FFFFFF"
